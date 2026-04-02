@@ -2,10 +2,6 @@
 <h3 align="center">Aspiring AI Engineer | BSc Computer Science & Chemistry</h3>
 
 ---
-<h1 align="center">Hi, I'm Yonela Mhloluvele 👋</h1>
-<h3 align="center">Aspiring AI Engineer | BSc Computer Science & Chemistry</h3>
-
----
 
 ### 👩‍💻 About Me
 
