@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Yonela Mhloluvele 👋</h1>
+<h1 align="center">Hi, I'm Yonela Mhloluvele </h1>
 <h3 align="center">Aspiring AI Engineer | BSc Computer Science & Chemistry</h3>
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 I’m a final-year BSc Computer Science & Chemistry student with a strong passion for **AI Engineering**, **machine learning**, and **building real-world solutions**.
 
@@ -11,7 +11,7 @@ I enjoy combining **science and technology** to solve meaningful problems, espec
 
 ---
 
-### 🚀 What I’m Working On
+###  What I’m Working On
 
 * Building **real-world AI & Machine Learning projects**
 * Applying data science to solve **practical problems**
@@ -21,7 +21,7 @@ I enjoy combining **science and technology** to solve meaningful problems, espec
 
 ---
 
-### 🧠 Skills & Technologies
+### Skills & Technologies
 
 **Programming:** Python, C, Java, JavaScript (Node.js)
 **AI & Data:** NumPy, Pandas, Scikit-Learn, TensorFlow (basic)
@@ -31,7 +31,7 @@ I enjoy combining **science and technology** to solve meaningful problems, espec
 
 ---
 
-### 📊 Current Projects
+### Current Projects
 
 * 📝 **Student Performance Prediction** (Machine Learning)
 * 🌱 **Crop Yield Prediction** (Data Science + ML)
@@ -39,7 +39,7 @@ I enjoy combining **science and technology** to solve meaningful problems, espec
 
 ---
 
-### 🎯 2026 Goals
+###  2026 Goals
 
 * Build and deploy **3+ strong AI projects**
 * Contribute consistently on GitHub
@@ -48,15 +48,15 @@ I enjoy combining **science and technology** to solve meaningful problems, espec
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 
-**📧 Email:** [yonelarena02@gmail.com](mailto:yonelarena02@gmail.com)
-**🔗 LinkedIn:** https://www.linkedin.com/in/yonela-mhloluvele
-
----
-
-⭐ *"Building intelligent systems that make a real impact."*
+** Email:** [yonelarena02@gmail.com](mailto:yonelarena02@gmail.com)
+** LinkedIn:** https://www.linkedin.com/in/yonela-mhloluvele
 
 ---
 
-⭐ *Thank you for visiting my GitHub! Feel free to explore and connect with me.*  
+ *"Building intelligent systems that make a real impact."*
+
+---
+
+ *Thank you for visiting my GitHub! Feel free to explore and connect with me.*  
